@@ -24,4 +24,9 @@ int main() {
     return 0;
 }
 
+INPUT/OUTPUT:
 
+Welcome to the Number Guessing Game!
+Guess the number between 1 and 100
+Enter your guess: 60
+Too high! Try again.
